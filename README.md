@@ -11,7 +11,7 @@ And finally, if there was one or two things we could change to improve lives of 
 <b>Who it could be of interest to:</b> Policy makers, gender equality advocates<br>
 <b>Data sources:</b> World Bank, Gapminder Foundation, International Labour Organisation, World Health Organisation<br>
 <b>What analysis do I want to do:</b> TimeSeries, Correlation, Clustering (right now, there are two ways to cluster: by geography and income), Regression<br><br>
-STUDY 1: EDUCATION<br>
+<b>STUDY 1: EDUCATION</b><br>
 I took two approaches: looking by income levels (high, middle, low) and by geographical areas (World and 13 geographical areas: East Asia & Pacific, Europe and Central Asia, Latin America & Caribbean, Middle East & North Africa, South Asia, Sub Saharan Africa, Arab World, Caribbean small states, Central Europe and the Baltics, Euro area, European Union, Fragile and conflict affected geographies, Pacific island small states)<br>
 I looked at the following factors:<br>
 Number of children out of school, primary completion rate, survival rate to the last grade of primary school, youth literacy age, effective transition from primary to secondary.<br>
@@ -24,8 +24,8 @@ school than there are expected at this age - that may indicate that there are a 
 <b>Primary completion rate:</b> Highest in high-income countries (marginally higher for girls), lower for girls in middle countries, lowest for lowest income countries (and still lower for girls than for boys).<br>
 <b>Survival rate to the last grade of primary school:</b> For high-income countries, higher for girls than boys but by a very small difference, this difference becomes bigger for mid-income countries (more girls than boys) and even bigger for low-income countries.<br>
 <b>Youth literacy age:</b> For high-income countries, it has been increasing and is almost 100% for both genders, middle-income countries it is higher for boys than for girls and it is still highest for boys in low-income countries.<br>
-<b>Effective transition from primary to secondary:</b> Slight increase for high-income countries but overall, quite steady and equal for both genders, marginally smaller for boys than girls in middle-income countries, marginally bigger for boys than girls in low-income countries.<br>
-STUDY 2: AGE ON FIRST MARRIAGE <br>
+<b>Effective transition from primary to secondary:</b> Slight increase for high-income countries but overall, quite steady and equal for both genders, marginally smaller for boys than girls in middle-income countries, marginally bigger for boys than girls in low-income countries.<br><br>
+<b>STUDY 2: AGE ON FIRST MARRIAGE</b> <br>
 Age on first marriage for females (2005, source: Gapminder Foundation) and comparison with a few metrics (also from 2005):<br>
 <b>Fertility rate: </b> From the graph, there seems to be some sort of negative correlation - so the younger you get married at, the more children you are likely to have. <br>
 <b>Child mortality rate:</b> That seems to be egatively correlated - so the younger you get married at, the more likely the child is to die<br>
